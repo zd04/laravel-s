@@ -3,8 +3,8 @@
   "type": "library",
   "license": "MIT",
   "support": {
-    "issues": "",
-    "source": ""
+    "issues": "none",
+    "source": "none"
   },
   "description": "🚀 LaravelS is an out-of-the-box adapter between Swoole and Laravel/Lumen.",
   "keywords": [
@@ -30,7 +30,7 @@
   "authors": [
     {
       "name": "zd04",
-      "email": "zd04"
+      "email": "zhjx2010dddd@gmail.com"
     }
   ],
   "require": {
