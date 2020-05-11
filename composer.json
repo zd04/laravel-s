@@ -1,10 +1,10 @@
 {
-  "name": "hhxsv5/laravel-s",
+  "name": "zd04/laravel-s",
   "type": "library",
   "license": "MIT",
   "support": {
-    "issues": "https://github.com/hhxsv5/laravel-s/issues",
-    "source": "https://github.com/hhxsv5/laravel-s"
+    "issues": "",
+    "source": ""
   },
   "description": "🚀 LaravelS is an out-of-the-box adapter between Swoole and Laravel/Lumen.",
   "keywords": [
@@ -26,11 +26,11 @@
     "inotify",
     "performance"
   ],
-  "homepage": "https://github.com/hhxsv5/laravel-s",
+  "homepage": "",
   "authors": [
     {
-      "name": "Xie Biao",
-      "email": "hhxsv5@sina.com"
+      "name": "zd04",
+      "email": "zd04"
     }
   ],
   "require": {
