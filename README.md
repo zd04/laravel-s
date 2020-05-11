@@ -1236,15 +1236,9 @@ class WorkerStartEvent implements WorkerStartInterface
 
 ## Alternatives
 
-- [swooletw/laravel-swoole](https://github.com/swooletw/laravel-swoole)
 
 ## Sponsor
 
-- [PayPal](https://www.paypal.me/hhxsv5)
-
-- [BTC](https://www.blockchain.com/btc/address/33owCwMDZBikNe3SY1nnyJ64cEyP7i3mcU)
-
-- [Gitee](https://gitee.com/hhxsv5/laravel-s?donate=true)
 
 ## License
 
